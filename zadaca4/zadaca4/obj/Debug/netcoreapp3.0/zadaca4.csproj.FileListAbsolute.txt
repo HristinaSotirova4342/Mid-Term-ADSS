@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\zadaca4\zadaca4\bin\Debug\netcoreapp3.0\zadaca4.exe
+C:\Users\Asus\Desktop\zadaca4\zadaca4\bin\Debug\netcoreapp3.0\zadaca4.deps.json
+C:\Users\Asus\Desktop\zadaca4\zadaca4\bin\Debug\netcoreapp3.0\zadaca4.runtimeconfig.json
+C:\Users\Asus\Desktop\zadaca4\zadaca4\bin\Debug\netcoreapp3.0\zadaca4.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\zadaca4\zadaca4\bin\Debug\netcoreapp3.0\zadaca4.dll
+C:\Users\Asus\Desktop\zadaca4\zadaca4\bin\Debug\netcoreapp3.0\zadaca4.pdb
+C:\Users\Asus\Desktop\zadaca4\zadaca4\obj\Debug\netcoreapp3.0\zadaca4.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\zadaca4\zadaca4\obj\Debug\netcoreapp3.0\zadaca4.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\zadaca4\zadaca4\obj\Debug\netcoreapp3.0\zadaca4.AssemblyInfo.cs
+C:\Users\Asus\Desktop\zadaca4\zadaca4\obj\Debug\netcoreapp3.0\zadaca4.dll
+C:\Users\Asus\Desktop\zadaca4\zadaca4\obj\Debug\netcoreapp3.0\zadaca4.pdb
